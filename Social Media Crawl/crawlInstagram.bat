@@ -1,0 +1,1 @@
+instagram-scraper linkaja --comments --retry-forever --media_metadata -t none -u <username> -p <password>
